@@ -12,6 +12,7 @@ const (
 	PkgSolanaGo       = "github.com/fluxrpc/solana-go"
 	PkgRpc            = "github.com/fluxrpc/solana-go/rpc"
 	PkgDfuseBinary    = "github.com/fluxrpc/solana-go/binary"
+	PkgBase58         = "github.com/fluxrpc/base58"
 	PkgGoFuzz         = "github.com/gagliardetto/gofuzz"
 	PkgTestifyRequire = "github.com/stretchr/testify/require"
 )
